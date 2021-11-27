@@ -30,4 +30,4 @@ Follow the instructions below to setup frontend and backend apps locally before 
 
 3- Open the code in Visual Studio Code or Terminal and Execute command: npx cypress open
 
-4- Click #Run All Integration Tests
+4- Click "Run All Integration Tests"
