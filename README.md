@@ -26,7 +26,7 @@ Follow the instructions below to setup frontend and backend apps locally before 
 
 1- clone the repository https://github.com/aksam786/cypress-conducit-automation.git
 
-2- if there is node_modules and package-lock.json in the repo, first delete them and then install packagesusing this command: npm install
+2- if there is node_modules and package-lock.json in the repo, first delete them and then install packages using this command: npm install
 
 3- Open the code in Visual Studio Code or Terminal and Execute command: npx cypress open
 
